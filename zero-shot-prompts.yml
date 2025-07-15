@@ -1,0 +1,120 @@
+Write a professional email to stakeholders explaining a 2-week delay in the WhatsApp integration project. Include an apology, brief explanation of technical challenges, revised timeline, and next steps. Keep the tone professional but reassuring."
+ai_response: "[Test this prompt and paste the response here]"
+# Zero-Shot Prompt Practice
+# Email Writing
+prompt: "Write a professional email to stakeholders explaining a 2-week delay in the WhatsApp integration project. Include an apology, brief explanation of technical challenges, revised timeline, and next steps. Keep the tone professional but reassuring."
+ai_response: "[Here's a professional and reassuring email you can send to stakeholders regarding the delay in the WhatsApp integration project:
+
+---
+
+**Subject:** Project Update: WhatsApp Integration – Revised Timeline
+
+Dear Stakeholders,
+
+I hope this message finds you well.
+
+I am writing to inform you of a **two-week delay** in the WhatsApp integration project. We sincerely apologize for this setback and understand the importance of timely delivery.
+
+The delay is primarily due to **unexpected technical challenges** encountered during the integration phase, particularly with message synchronization across platforms and ensuring compliance with data security protocols. Our team is actively working to resolve these issues and has made significant progress.
+
+### Revised Timeline:
+- **Original Completion Date:** July 18, 2025  
+- **New Completion Date:** August 1, 2025
+
+### Next Steps:
+- We are finalizing the updated integration framework this week.
+- A detailed progress report will be shared by Friday.
+- We will schedule a stakeholder review session early next week to walk through the revised implementation plan.
+
+We remain committed to delivering a robust and secure solution, and we appreciate your continued support and understanding. Please feel free to reach out if you have any questions or would like to discuss the updated timeline further.
+
+Warm regards,  
+[Your Full Name]  
+[Your Job Title]  
+[Your Contact Information]  
+[Company Name]
+
+---
+
+Would you like help customizing this email for a specific stakeholder group or adding attachments like a progress report?]"
+
+# Meeting Summary
+prompt: "Create a concise meeting summary with the following structure: Key Decisions, Action Items (with owners and deadlines), and Next Meeting Date. Write it for a project status meeting about implementing WhatsApp customer service capabilities."
+ai_response: "[Here’s a concise meeting summary for a project status meeting on implementing WhatsApp customer service capabilities:
+
+---
+
+**📌 Meeting Summary – WhatsApp Customer Service Implementation**  
+**Date:** July 15, 2025  
+**Attendees:** [List of attendees, e.g., Project Team, IT, Customer Service Leads]
+
+---
+
+### **Key Decisions**
+- Proceed with Twilio API for WhatsApp integration.
+- Customer service agents will use the unified dashboard for message handling.
+- Pilot launch scheduled for selected customer segments before full rollout.
+
+---
+
+### **Action Items**
+
+| Task | Owner | Deadline |
+|------|-------|----------|
+| Finalize API integration plan | IT Team (Lead: Thabo M.) | July 22, 2025 |
+| Prepare training materials for agents | Customer Service (Lead: Lerato K.) | July 24, 2025 |
+| Set up test environment for pilot | DevOps (Lead: Sipho N.) | July 21, 2025 |
+| Draft customer communication for pilot group | Marketing (Lead: Ayesha R.) | July 23, 2025 |
+
+---
+
+### **Next Meeting Date**
+**Tuesday, July 29, 2025 @ 10:00 AM SAST**
+
+---
+
+Would you like this summary formatted as a downloadable document or email-ready version?]"
+
+# Technical Documentation:
+prompt: "Write a brief technical requirements document for integrating WhatsApp Business API into an existing customer service system. Include sections for: Overview, Technical Requirements, Integration Points, and Success Criteria. Use bullet points and keep it under 300 words."
+ai_response: "[Here’s a brief technical requirements document for integrating the WhatsApp Business API into an existing customer service system:
+
+---
+
+**📄 WhatsApp Business API Integration – Technical Requirements Document**
+
+---
+
+### **Overview**
+Integrate WhatsApp Business API into the existing customer service platform to enable real-time customer communication, improve response times, and centralize message handling.
+
+---
+
+### **Technical Requirements**
+- Access to WhatsApp Business API via approved provider (e.g., Twilio, Meta).
+- Secure API authentication using OAuth 2.0 or token-based access.
+- HTTPS endpoints for message sending, receiving, and webhook callbacks.
+- JSON format for all API requests and responses.
+- Support for media attachments (images, documents, etc.).
+- Compliance with POPIA and GDPR for data handling.
+
+---
+
+### **Integration Points**
+- **Customer Service Dashboard**: Embed WhatsApp messaging interface for agents.
+- **CRM System**: Sync customer profiles and conversation history.
+- **Notification Service**: Trigger automated messages for order updates, support tickets, etc.
+- **Analytics Module**: Track message volume, response times, and customer satisfaction.
+
+---
+
+### **Success Criteria**
+- Seamless message exchange between customers and agents via WhatsApp.
+- 99% uptime and message delivery reliability.
+- Full integration with CRM and analytics systems.
+- Positive feedback from pilot users and improved CSAT scores.
+- Compliance with all data protection regulations.
+
+---
+
+Let me know if you'd like this formatted as a PDF or expanded into a full specification document.]"
